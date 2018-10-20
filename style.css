@@ -1,0 +1,25 @@
+/*.navcoloring{
+    background-color: green;
+    color: black;
+}*/
+/* for the separation between H1 and I <div class="green-sparator"></div>*/
+.green-separator {
+    width: 20px;
+    height: 1px;
+    background: #bfc933;
+    margin: 10px auto;
+    z-index: 1;
+}
+
+.d-block {
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.w-100{
+    width: 80%;
+    
+}
